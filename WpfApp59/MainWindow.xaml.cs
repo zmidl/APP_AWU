@@ -29,5 +29,10 @@ namespace WpfApp59
         {
             MessageBox.Show("啊呜。。。");
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("啊呜你妹。。");
+        }
     }
 }
